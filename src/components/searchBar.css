@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+  margin-top: 1rem;
+}
+.searchBar {
+  width: 60vw;
+  height: 5vh;
+  padding: 1rem;
+  font-weight: 700;
+  font-size: medium;
+  border-radius: 20px;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.082);
+}

@@ -1,0 +1,19 @@
+.details-container {
+  height: 90vh;
+  width: 90%;
+  border: 2px solid black;
+  margin: auto;
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10rem;
+}
+
+.image_detail {
+  border: 2px solid red;
+}
+
+.userDetails {
+  border: 2px solid red;
+}
